@@ -1,0 +1,13 @@
+create procedure SPI_INS_SPContacto
+@opc int,
+@Id int = null,
+@Nombre varchar(50) = null,
+@Telefono varchar(20) = null
+	AS
+		IF @opc = 1 BEGIN
+			SELECT * FROM dbo.Table_1
+		END
+
+		IF @opc = 2 BEGIN
+			INSERT INTO Table_1 (ID,Nombre_Contacto,Telefono_Contacto) VALUES (@Id,@Nombre,@Telefono)
+		END
