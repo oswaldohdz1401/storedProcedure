@@ -1,0 +1,10 @@
+C:\Users\Profesor\source\repos\PracticaDosStoreProcedure\PracticaDosStoreProcedure\bin\Debug\PracticaDosStoreProcedure.exe.config
+C:\Users\Profesor\source\repos\PracticaDosStoreProcedure\PracticaDosStoreProcedure\bin\Debug\PracticaDosStoreProcedure.exe
+C:\Users\Profesor\source\repos\PracticaDosStoreProcedure\PracticaDosStoreProcedure\bin\Debug\PracticaDosStoreProcedure.pdb
+C:\Users\Profesor\source\repos\PracticaDosStoreProcedure\PracticaDosStoreProcedure\obj\Debug\PracticaDosStoreProcedure.csprojResolveAssemblyReference.cache
+C:\Users\Profesor\source\repos\PracticaDosStoreProcedure\PracticaDosStoreProcedure\obj\Debug\PracticaDosStoreProcedure.Form1.resources
+C:\Users\Profesor\source\repos\PracticaDosStoreProcedure\PracticaDosStoreProcedure\obj\Debug\PracticaDosStoreProcedure.Properties.Resources.resources
+C:\Users\Profesor\source\repos\PracticaDosStoreProcedure\PracticaDosStoreProcedure\obj\Debug\PracticaDosStoreProcedure.csproj.GenerateResource.Cache
+C:\Users\Profesor\source\repos\PracticaDosStoreProcedure\PracticaDosStoreProcedure\obj\Debug\PracticaDosStoreProcedure.csproj.CoreCompileInputs.cache
+C:\Users\Profesor\source\repos\PracticaDosStoreProcedure\PracticaDosStoreProcedure\obj\Debug\PracticaDosStoreProcedure.exe
+C:\Users\Profesor\source\repos\PracticaDosStoreProcedure\PracticaDosStoreProcedure\obj\Debug\PracticaDosStoreProcedure.pdb
