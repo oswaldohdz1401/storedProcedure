@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace Controlador
 {
-    class ClsContacto
-    {
+    public class ClsContacto
+    { 
         //opcion a ejecutar en el SP
         public int opc { get; set; }
 
-        //propiedades de la la clase
+
+        // Propiedades de la clase
         public int Id { get; set; }
         public string Nombre { get; set; }
         public string Telefono { get; set; }
